@@ -55,5 +55,9 @@ npx react-native run-ios
 Please read react native documentation for more information about setup environment and starting project.\
 https://reactnative.dev/docs/environment-setup
 
+## Sample Screenshots
 
+![Screenshot 1](/screenshots/screenshot_1.PNG)<br/>
+<br/>
+![Screenshot 2](/screenshots/screenshot_2.PNG)
 
